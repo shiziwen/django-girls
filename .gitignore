@@ -1,0 +1,12 @@
+*.db
+*.pyc
+*~
+.*
+env
+media/*
+*/migrations/*
+static/*
+
+# Accept these files in the repository
+!.gitignore
+!.travis.yml
